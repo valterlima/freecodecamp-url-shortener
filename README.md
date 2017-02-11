@@ -1,4 +1,4 @@
-# freecodecamp-url-shortener
+# URL Shortener
 
 ## How to use
 Pass your website url as a param. 
